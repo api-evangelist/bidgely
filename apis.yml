@@ -1,0 +1,121 @@
+aid: bidgely
+name: Bidgely
+description: >-
+  Bidgely is a Mountain View, California energy analytics company that builds
+  AI software for electric and gas utilities. Its flagship platform, UtilityAI,
+  applies patented non-intrusive load monitoring (NILM) and disaggregation
+  techniques to smart meter interval data to infer appliance-level energy
+  usage — air conditioning, heat pumps, electric vehicles, pool pumps, water
+  heaters and more — from the whole-home meter signal alone, without surveys,
+  sub-meters, or smart plugs. The platform layers GenAI natural-language
+  interfaces and Agentic AI workflows on top of disaggregation to support
+  utility programs across demand-side management, customer engagement and
+  high-bill alerts, load flexibility and time-of-use, electrification (EV and
+  heat pump targeting), grid resiliency and DER planning, affordability and
+  income-qualified outreach, gas efficiency, small and mid-sized business
+  programs, and energy theft detection. Bidgely is sold to utilities as SaaS
+  or deployable into customer AWS, Snowflake, Databricks, Azure, and Oracle
+  environments, and exposes embeddable customer-facing widgets to utility
+  digital channels. Bidgely has been deployed by more than 50 utilities across
+  four continents — including FortisBC, Arizona Public Service, PacifiCorp,
+  Avista, NV Energy, Nova Scotia Power, and SoCalGas — covering tens of
+  millions of meters. Bidgely operates an internal REST API surface across
+  regional endpoints (naapi.bidgely.com, api.eu.bidgely.com) for its own pilot
+  deployments and embeddable widgets, but does not currently publish a public
+  developer portal, OpenAPI specification, or self-service API key program;
+  integration is conducted under utility contracts.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Energy
+  - Utilities
+  - Smart Meters
+  - Energy Disaggregation
+  - Non-Intrusive Load Monitoring
+  - Artificial Intelligence
+  - Machine Learning
+  - GenAI
+  - Agentic AI
+  - Demand-Side Management
+  - Demand Response
+  - Load Flexibility
+  - Time-Of-Use
+  - Electric Vehicles
+  - Heat Pumps
+  - Electrification
+  - Grid Planning
+  - Distributed Energy Resources
+  - Energy Efficiency
+  - Affordability Programs
+  - Energy Theft Detection
+  - Gas Utilities
+  - Customer Engagement
+url: https://raw.githubusercontent.com/api-evangelist/bidgely/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.bidgely.com
+  - type: UtilityAI
+    url: https://www.bidgely.com/utilityai/
+  - type: UtilityAIPro
+    url: https://www.bidgely.com/utility-ai-pro
+  - type: TrueDisaggregation
+    url: https://www.bidgely.com/disaggregation
+  - type: AgenticAI
+    url: https://www.bidgely.com/agentic-automation
+  - type: GenAI
+    url: https://www.bidgely.com/gen-ai
+  - type: DSMSolution
+    url: https://www.bidgely.com/bidgely-solution-dsm
+  - type: CustomerEngagementSolution
+    url: https://www.bidgely.com/customer-engagement-solutions
+  - type: LoadFlexibilitySolution
+    url: https://www.bidgely.com/load-shaping
+  - type: ElectrificationSolution
+    url: https://www.bidgely.com/electrification-1
+  - type: GridResiliencySolution
+    url: https://www.bidgely.com/der-grid-planning
+  - type: AffordabilitySolution
+    url: https://www.bidgely.com/affordability
+  - type: GasSolution
+    url: https://www.bidgely.com/gas-disaggregation
+  - type: SMBSolution
+    url: https://www.bidgely.com/smb-solutions
+  - type: TheftDetectionSolution
+    url: https://www.bidgely.com/theft-detection
+  - type: Partners
+    url: https://www.bidgely.com/partners
+  - type: Leadership
+    url: https://www.bidgely.com/leadership
+  - type: Customers
+    url: https://www.bidgely.com/resources?assetType=Case+Study
+  - type: Resources
+    url: https://www.bidgely.com/resources
+  - type: Insights
+    url: https://www.bidgely.com/insights
+  - type: News
+    url: https://www.bidgely.com/news-press
+  - type: Careers
+    url: https://www.bidgely.com/careers
+  - type: Demo
+    url: https://demo.bidgely.com/
+  - type: Contact
+    url: https://www.bidgely.com/contact-us-form/
+  - type: GitHub
+    url: https://github.com/bidgely
+  - type: EmbeddableWidgetsSDK
+    url: https://github.com/bidgely/embeddable-widgets-sdk-samples
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bidgely
+  - type: Twitter
+    url: https://twitter.com/Bidgely
+  - type: YouTube
+    url: https://www.youtube.com/@Bidgely
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
