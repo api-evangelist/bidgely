@@ -58,6 +58,8 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/bidgely-domain-security.yml
   - type: Website
     url: https://www.bidgely.com
   - type: UtilityAI
