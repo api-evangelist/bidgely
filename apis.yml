@@ -57,9 +57,9 @@ tags:
   - Energy Disaggregation
   - Non-Intrusive Load Monitoring
   - Artificial Intelligence
-  - Machine-Learning
+  - Machine Learning
   - Generative AI
-  - Agentic AI
+  - AI Agents
   - Demand-Side Management
   - Demand Response
   - Load Flexibility
@@ -98,6 +98,7 @@ tags_raw:
   - Energy Theft Detection
   - Gas Utilities
   - Customer Engagement
+  - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/bidgely/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
