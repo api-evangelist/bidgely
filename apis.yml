@@ -101,10 +101,12 @@ tags_raw:
   - Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/bidgely/refs/heads/main/apis.yml
 created: '2026-05-25'
-modified: '2026-05-25'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.bidgely.com/insights/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/bidgely-domain-security.yml
   - type: Website
