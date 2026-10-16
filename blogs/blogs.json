@@ -1,0 +1,14 @@
+{
+  "repo": "bidgely",
+  "feeds": [
+    {
+      "source": "https://www.bidgely.com/insights/rss.xml",
+      "feed_url": "https://www.bidgely.com/insights/rss.xml",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
