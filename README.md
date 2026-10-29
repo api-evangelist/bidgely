@@ -1,4 +1,4 @@
-# bidgely
+# Bidgely
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bidgely — UtilityAI, energy disaggregation, and agentic AI for electric and gas utilities
+Bidgely is a Mountain View, California energy analytics company that builds AI software for electric and gas utilities. Its flagship platform, UtilityAI, applies patented non-intrusive load monitoring (NILM) and disaggregation techniques to smart meter interval data to infer appliance-level energy usage — air conditioning, heat pumps, electric vehicles, pool pumps, water heaters and more — from the whole-home meter signal alone, without surveys, sub-meters, or smart plugs. The platform layers GenAI natural-language interfaces and Agentic AI workflows on top of disaggregation to support utility programs across demand-side management, customer engagement and high-bill alerts, load flexibility and time-of-use, electrification (EV and heat pump targeting), grid resiliency and DER planning, affordability and income-qualified outreach, gas efficiency, small and mid-sized business programs, and energy theft detection. Bidgely is sold to utilities as SaaS or deployable into customer AWS, Snowflake, Databricks, Azure, and Oracle environments, and exposes embeddable customer-facing widgets to utility digital channels. Bidgely has been deployed by more than 50 utilities across four continents — including FortisBC, Arizona Public Service, PacifiCorp, Avista, NV Energy, Nova Scotia Power, and SoCalGas — covering tens of millions of meters. Bidgely operates an internal REST API surface across regional endpoints (naapi.bidgely.com, api.eu.bidgely.com) for its own pilot deployments and embeddable widgets, but does not currently publish a public developer portal, OpenAPI specification, or self-service API key program; integration is conducted under utility contracts.
+
+**Areas:** Energy · Utilities · Smart Meter · Energy Disaggregation · Non-Intrusive Load Monitoring · Artificial Intelligence · Machine Learning · Generative AI · AI Agents · Demand-Side Management · Demand Response · Load Flexibility
+
+## Bidgely on APIs.io
+
+Everything profiled for Bidgely is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bidgely/](https://apis.io/providers/bidgely/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bidgely Domain Security](https://apis.io/security/bidgely/bidgely-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bidgely.com)
+
+## API Evangelist rating
+
+**Kin Score 4.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.6** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bidgely/](https://apis.io/providers/bidgely/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bidgely: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bidgely/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
